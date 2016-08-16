@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\zhou\androidproject\ProjectFirst\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ba7c77cf6e055e61bccce0f617596b5d0a92dc0">
+        <dex dex="F:\zhou\androidproject\ProjectFirst\app\build\intermediates\pre-dexed\debug\instant-run_7ca4b91a551d39ff7453110bcf6e3c6df26cd9ac.jar" />
+    </item>
+    <item
+        jar="F:\zhou\androidproject\ProjectFirst\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9d366f7cb65ccf4ed422146a25fbd0c4f3f62e53">
+        <dex dex="F:\zhou\androidproject\ProjectFirst\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d512c4ed6255611e970827344bfdee06a35989f9.jar" />
+    </item>
+    <item
+        jar="F:\zhou\androidproject\ProjectFirst\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\zhou\androidproject\ProjectFirst\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_d4bd23891a26ab787ac79a8d0fff6d99e05e3c07.jar" />
+    </item>
+    <item
+        jar="F:\zhou\androidproject\ProjectFirst\app\libs\apiEngine v1.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="41a32e12a0346e479c4e8724be78dec0ca101c56">
+        <dex dex="F:\zhou\androidproject\ProjectFirst\app\build\intermediates\pre-dexed\debug\apiEngine v1.1.0_80939c21566109d402c80b2b9950a168d40d08b5.jar" />
+    </item>
+    <item
+        jar="F:\zhou\androidproject\ProjectFirst\app\libs\uzMam.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bc630ff4d19305cadc72da0eaa65c351f9f48d48">
+        <dex dex="F:\zhou\androidproject\ProjectFirst\app\build\intermediates\pre-dexed\debug\uzMam_e58ef36b5ca8eab3f15ab44f7ba4e63d033c647c.jar" />
+    </item>
+    <item
+        jar="F:\zhou\androidproject\ProjectFirst\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\zhou\androidproject\ProjectFirst\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_141d2ca39a1af1b1459084e4dd2a8ad6d9dd4246.jar" />
+    </item>
+    <item
+        jar="F:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\zhou\androidproject\ProjectFirst\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_a61292129ac0fde7634d2e7615a521631cb6d825.jar" />
+    </item>
+
+</items>

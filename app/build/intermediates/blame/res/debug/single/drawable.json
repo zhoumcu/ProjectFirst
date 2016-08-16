@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\zhou\\androidproject\\ProjectFirst\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_unpressed.xml",
+        "source": "F:\\zhou\\androidproject\\ProjectFirst\\app\\src\\main\\res\\drawable\\btn_unpressed.xml"
+    },
+    {
+        "merged": "F:\\zhou\\androidproject\\ProjectFirst\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pressed.xml",
+        "source": "F:\\zhou\\androidproject\\ProjectFirst\\app\\src\\main\\res\\drawable\\btn_pressed.xml"
+    },
+    {
+        "merged": "F:\\zhou\\androidproject\\ProjectFirst\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector.xml",
+        "source": "F:\\zhou\\androidproject\\ProjectFirst\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "F:\\zhou\\androidproject\\ProjectFirst\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo.png",
+        "source": "F:\\zhou\\androidproject\\ProjectFirst\\app\\src\\main\\res\\drawable\\ic_logo.png"
+    }
+]
